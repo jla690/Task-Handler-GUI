@@ -1,0 +1,21 @@
+The GUI can be run by running the main function in the Main class in the a4 directory.
+
+There, you can
+select the tabs to choose which tasks you want to show: "All", "Upcoming", or "Overdue" tasks.
+
+In the "All" tasks you can
+click on the checkbox in order to complete the task and you can click "Remove Task" to delete it.
+
+Pressing "Add Task" will open a popup window where you can create a new task.
+
+You can type the name and notes of your task into the text boxes right
+in the text fields and select the date and time by choosing it in the dropdown menu.
+
+If you do not fill in all the fields, then an error will popup telling you to
+fill in all the required fields.
+
+Clicking "Generate" will create a random task for you.
+
+The "Cancel" will close the window and send you back to the main window.
+
+The "Create" button will create the task and add it to your list of tasks.
